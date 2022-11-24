@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web and Desktop Programming, Machine Learning, Robotics and Data Science
 - 🌱 I’m currently learning Python-Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning and Robotics
+- 🚴‍♂️ I do long ride biking on my spear time and Im always on Bike To Work.
 - 📫 How to reach me - just sent me an email
 
 <!---
